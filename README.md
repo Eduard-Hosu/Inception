@@ -8,6 +8,7 @@ This project aims to broaden your knowledge of system administration by using Do
 ## Development
 ```bash
 # you need docker and docker-compose installed
+# redifine docker volumes in docker-compose.yml
 
 # Start containers with
 make start
