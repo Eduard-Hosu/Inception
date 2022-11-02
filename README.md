@@ -9,6 +9,7 @@ This project aims to broaden your knowledge of system administration by using Do
 ```bash
 # you need docker and docker-compose installed
 # redifine docker volumes in docker-compose.yml
+# remake dump.sql inside the continer with your data and copy the file to /srcs/requirements/mariadb/tools/
 
 # Start containers with
 make start
